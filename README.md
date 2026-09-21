@@ -125,39 +125,120 @@ analise-desempenho-educacional/
 │
 └── README.md
 
-## 💡 Perguntas de negócio
-
-A análise foi estruturada para responder perguntas como:
-
-Qual é a média geral das notas?
-Qual é a taxa de aprovação?
-Qual turma apresenta maior média?
-Qual disciplina apresenta maior média?
-Como está a frequência média dos alunos?
-Como está distribuída a situação dos alunos?
+---
 
 ## 📈 Competências demonstradas
 
 Este projeto demonstra conhecimentos em:
 
-análise exploratória de dados;
-tratamento e organização de dados;
-criação de indicadores;
-agregação e comparação de dados;
-SQL;
-Python;
-Pandas;
-Power BI;
-criação de dashboards;
-documentação de projetos;
-interpretação de dados para apoio à tomada de decisão.
+- **Análise exploratória de dados**
+- **Tratamento e organização de dados**
+- **Criação e análise de indicadores**
+- **Agregação e comparação de dados**
+- **SQL**
+- **Python**
+- **Pandas**
+- **Power BI**
+- **Criação de dashboards**
+- **Visualização de dados**
+- **Documentação de projetos**
+- **Interpretação de dados**
+- **Análise de desempenho**
+- **Apoio à tomada de decisão baseada em dados**
+
+---
+
+## 🎓 Contexto educacional
+
+A análise utiliza um conjunto de dados acadêmicos fictícios para simular uma situação real de acompanhamento do desempenho dos alunos.
+
+O projeto demonstra como dados educacionais podem ser organizados, analisados e transformados em informações visuais para facilitar o acompanhamento de indicadores acadêmicos.
+
+---
+
+## 📊 Resultados da análise
+
+O dashboard desenvolvido apresenta uma visão consolidada dos dados educacionais, permitindo analisar:
+
+- **300 alunos** na base de dados
+- **Média geral das notas**
+- **Taxa de aprovação de 70%**
+- **Média de frequência**
+- Desempenho por **turma**
+- Desempenho por **disciplina**
+- Distribuição da **situação dos alunos**
+
+Os indicadores podem ser explorados por meio dos filtros de **Turma** e **Disciplina** disponíveis no dashboard.
+
+---
+
+## 🔄 Fluxo de análise
+
+O projeto segue as seguintes etapas:
+
+**Dados → Tratamento → Análise → Indicadores → Visualização → Interpretação**
+
+### 1. Dados
+
+Base fictícia contendo informações acadêmicas dos alunos.
+
+### 2. Tratamento
+
+Organização e preparação dos dados utilizando Python e Pandas.
+
+### 3. Análise
+
+Utilização de Python e SQL para calcular indicadores e identificar padrões.
+
+### 4. Indicadores
+
+Criação de métricas relacionadas a notas, frequência e aprovação.
+
+### 5. Visualização
+
+Construção do dashboard utilizando Power BI.
+
+### 6. Interpretação
+
+Análise dos resultados para facilitar a compreensão do desempenho acadêmico.
+
+---
 
 ## ⚠️ Dados
 
-Os dados utilizados neste projeto são fictícios e foram criados exclusivamente para fins de estudo, desenvolvimento de portfólio e demonstração de habilidades em análise de dados.
+Os dados utilizados neste projeto são **fictícios** e foram criados exclusivamente para fins de estudo, desenvolvimento de portfólio e demonstração de habilidades em análise de dados.
+
+Nenhum dado pessoal real de alunos é utilizado.
+
+---
+
+## 🚀 Próximos passos
+
+Possíveis evoluções deste projeto:
+
+- inclusão de novos indicadores;
+- análise temporal do desempenho;
+- identificação de alunos com baixo desempenho;
+- análise da relação entre frequência e notas;
+- criação de novos filtros no dashboard;
+- automação da atualização dos dados;
+- desenvolvimento de análises mais avançadas com Python;
+- aplicação de modelos de análise preditiva.
+
+---
 
 ## 👩‍💻 Autora
 
-Cristiane Palarmini
-Analista de Dados | Tecnologia da Informação | Educação Profissional
-GitHub
+**Cristiane Palarmini**
+
+**Analista de Dados | Tecnologia da Informação | Educação Profissional**
+
+🔗 [GitHub](https://github.com/cristianepalarmini)
+
+---
+
+## 📌 Sobre este projeto
+
+Este projeto faz parte do portfólio profissional de **Cristiane Palarmini**, reunindo conhecimentos de análise de dados, tecnologia da informação e educação.
+
+O objetivo é demonstrar, na prática, a capacidade de transformar dados em informações úteis por meio de ferramentas de análise, programação, banco de dados e visualização.
