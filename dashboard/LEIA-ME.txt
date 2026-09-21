@@ -1,5 +1,18 @@
-Dashboard de Desempenho Educacional
-
 ## 📊 Dashboard
 
-![Dashboard de Desempenho Educacional](dashboard/Dashboard%20de%20Desempenho%20Educacional.png)
+DASHBOARD DE DESEMPENHO EDUCACIONAL
+
+Este dashboard apresenta indicadores de desempenho acadêmico, frequência e situação dos alunos.
+
+Indicadores analisados:
+- Total de alunos
+- Média geral das notas
+- Taxa de aprovação
+- Média de frequência
+- Desempenho por turma
+- Desempenho por disciplina
+
+Ferramenta utilizada:
+- Power BI
+
+Os dados utilizados são fictícios e foram criados exclusivamente para fins de estudo e demonstração de habilidades em análise de dados.
