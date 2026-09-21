@@ -1,0 +1,301 @@
+﻿id_aluno,aluno,turma,idade,disciplina,nota,frequencia,situacao
+1,Aluno 001,9º A,15,Geografia,5.8,81.6,Em recuperação
+2,Aluno 002,9º B,13,História,6.3,92.5,Aprovado
+3,Aluno 003,8º A,13,Ciências,8.7,89.5,Aprovado
+4,Aluno 004,9º A,14,Língua Portuguesa,7.9,100.0,Aprovado
+5,Aluno 005,9º A,16,Língua Portuguesa,7.2,94.9,Aprovado
+6,Aluno 006,9º B,13,Ciências,7.0,93.3,Aprovado
+7,Aluno 007,8º A,14,Ciências,7.5,88.1,Aprovado
+8,Aluno 008,8º A,15,Geografia,5.6,81.9,Em recuperação
+9,Aluno 009,9º A,13,Geografia,7.2,86.6,Aprovado
+10,Aluno 010,8º B,14,Língua Portuguesa,8.7,91.3,Aprovado
+11,Aluno 011,9º A,14,História,6.0,75.9,Aprovado
+12,Aluno 012,9º A,14,Língua Portuguesa,7.1,96.7,Aprovado
+13,Aluno 013,9º A,14,História,6.7,100.0,Aprovado
+14,Aluno 014,9º A,14,História,5.1,74.4,Em recuperação
+15,Aluno 015,9º B,13,Geografia,6.4,78.2,Aprovado
+16,Aluno 016,8º A,15,Matemática,5.1,89.6,Em recuperação
+17,Aluno 017,9º B,14,Matemática,7.2,83.9,Aprovado
+18,Aluno 018,9º B,13,Ciências,7.0,89.8,Aprovado
+19,Aluno 019,9º B,13,Geografia,6.4,87.5,Aprovado
+20,Aluno 020,9º A,14,História,5.2,80.8,Em recuperação
+21,Aluno 021,8º B,14,Matemática,6.9,97.0,Aprovado
+22,Aluno 022,8º A,13,História,7.6,91.3,Aprovado
+23,Aluno 023,8º B,14,Matemática,6.1,84.1,Aprovado
+24,Aluno 024,9º B,13,Matemática,7.0,98.5,Aprovado
+25,Aluno 025,9º B,14,Matemática,6.8,84.4,Aprovado
+26,Aluno 026,8º B,13,Geografia,6.4,79.3,Aprovado
+27,Aluno 027,8º B,14,Língua Portuguesa,5.4,89.3,Em recuperação
+28,Aluno 028,8º B,14,História,7.5,90.5,Aprovado
+29,Aluno 029,9º B,15,Geografia,9.7,91.7,Aprovado
+30,Aluno 030,9º B,13,Geografia,7.6,92.9,Aprovado
+31,Aluno 031,8º A,14,Geografia,5.1,91.6,Em recuperação
+32,Aluno 032,8º A,13,Geografia,7.1,91.3,Aprovado
+33,Aluno 033,9º B,15,Geografia,4.2,84.0,Em recuperação
+34,Aluno 034,8º B,15,Ciências,9.7,83.2,Aprovado
+35,Aluno 035,8º B,13,História,9.5,93.2,Aprovado
+36,Aluno 036,8º A,14,Geografia,6.0,89.7,Aprovado
+37,Aluno 037,9º B,15,História,4.7,93.7,Em recuperação
+38,Aluno 038,8º A,14,Ciências,4.6,76.0,Em recuperação
+39,Aluno 039,8º A,14,Ciências,6.1,84.5,Aprovado
+40,Aluno 040,9º A,13,História,5.8,100.0,Em recuperação
+41,Aluno 041,9º A,13,Matemática,6.9,91.9,Aprovado
+42,Aluno 042,9º A,15,Língua Portuguesa,6.6,90.1,Aprovado
+43,Aluno 043,8º B,15,Matemática,7.2,93.0,Aprovado
+44,Aluno 044,9º B,14,Matemática,8.0,100.0,Aprovado
+45,Aluno 045,9º B,14,Matemática,6.6,100.0,Aprovado
+46,Aluno 046,9º B,14,Geografia,4.7,76.9,Em recuperação
+47,Aluno 047,9º B,14,Ciências,5.9,79.5,Em recuperação
+48,Aluno 048,9º A,15,Matemática,4.9,76.7,Em recuperação
+49,Aluno 049,8º B,15,Ciências,7.1,82.8,Aprovado
+50,Aluno 050,8º B,15,História,6.7,88.4,Aprovado
+51,Aluno 051,9º A,14,Língua Portuguesa,8.8,89.7,Aprovado
+52,Aluno 052,8º B,13,História,6.6,77.3,Aprovado
+53,Aluno 053,9º A,13,História,6.7,74.9,Em recuperação
+54,Aluno 054,9º B,15,Geografia,6.3,82.6,Aprovado
+55,Aluno 055,9º A,14,Língua Portuguesa,7.4,94.4,Aprovado
+56,Aluno 056,9º B,13,História,9.2,95.6,Aprovado
+57,Aluno 057,9º B,13,História,7.3,99.9,Aprovado
+58,Aluno 058,8º A,14,Língua Portuguesa,7.2,87.8,Aprovado
+59,Aluno 059,9º A,13,Língua Portuguesa,6.8,93.8,Aprovado
+60,Aluno 060,8º A,13,História,7.0,95.1,Aprovado
+61,Aluno 061,9º A,14,Língua Portuguesa,5.0,84.5,Em recuperação
+62,Aluno 062,9º A,14,História,6.0,90.7,Aprovado
+63,Aluno 063,8º A,14,História,6.0,92.6,Aprovado
+64,Aluno 064,8º A,13,Geografia,6.7,81.6,Aprovado
+65,Aluno 065,9º A,14,Matemática,8.8,99.5,Aprovado
+66,Aluno 066,8º B,13,História,6.5,87.7,Aprovado
+67,Aluno 067,9º B,14,Ciências,6.9,88.6,Aprovado
+68,Aluno 068,8º A,14,Matemática,5.9,81.4,Em recuperação
+69,Aluno 069,9º B,14,Matemática,5.2,82.5,Em recuperação
+70,Aluno 070,8º B,15,Matemática,6.2,72.6,Em recuperação
+71,Aluno 071,8º B,14,Geografia,7.4,88.4,Aprovado
+72,Aluno 072,8º B,14,História,5.6,100.0,Em recuperação
+73,Aluno 073,8º A,13,Geografia,5.7,80.9,Em recuperação
+74,Aluno 074,8º B,14,História,6.7,100.0,Aprovado
+75,Aluno 075,8º A,13,Geografia,7.1,97.9,Aprovado
+76,Aluno 076,8º B,13,Geografia,5.6,84.7,Em recuperação
+77,Aluno 077,9º B,16,Ciências,6.6,88.2,Aprovado
+78,Aluno 078,9º B,14,Geografia,6.2,87.1,Aprovado
+79,Aluno 079,9º A,15,Língua Portuguesa,7.3,99.9,Aprovado
+80,Aluno 080,9º B,14,Ciências,8.2,91.6,Aprovado
+81,Aluno 081,9º A,15,Geografia,8.0,96.3,Aprovado
+82,Aluno 082,9º B,14,Matemática,6.1,90.5,Aprovado
+83,Aluno 083,8º A,14,Língua Portuguesa,5.9,87.2,Em recuperação
+84,Aluno 084,9º B,14,Língua Portuguesa,7.4,90.3,Aprovado
+85,Aluno 085,9º A,13,Língua Portuguesa,6.9,85.2,Aprovado
+86,Aluno 086,9º A,14,Ciências,5.0,77.8,Em recuperação
+87,Aluno 087,8º B,13,Geografia,6.9,93.7,Aprovado
+88,Aluno 088,8º A,13,Geografia,7.7,77.5,Aprovado
+89,Aluno 089,9º B,14,Matemática,5.8,86.1,Em recuperação
+90,Aluno 090,8º B,13,Matemática,8.4,84.9,Aprovado
+91,Aluno 091,9º B,15,Língua Portuguesa,8.2,92.5,Aprovado
+92,Aluno 092,9º B,16,Matemática,9.5,99.0,Aprovado
+93,Aluno 093,8º B,15,Ciências,6.7,96.4,Aprovado
+94,Aluno 094,8º B,14,Geografia,6.9,92.7,Aprovado
+95,Aluno 095,8º B,13,Língua Portuguesa,5.7,83.6,Em recuperação
+96,Aluno 096,8º B,15,Matemática,7.7,86.7,Aprovado
+97,Aluno 097,8º B,14,Ciências,5.8,85.7,Em recuperação
+98,Aluno 098,9º B,16,Ciências,7.1,84.7,Aprovado
+99,Aluno 099,8º B,16,Matemática,7.1,85.2,Aprovado
+100,Aluno 100,8º A,15,Geografia,6.3,85.0,Aprovado
+101,Aluno 101,9º A,13,Matemática,7.8,84.7,Aprovado
+102,Aluno 102,8º B,14,Língua Portuguesa,7.3,94.7,Aprovado
+103,Aluno 103,8º B,15,Matemática,6.9,80.6,Aprovado
+104,Aluno 104,9º B,14,Ciências,5.6,82.9,Em recuperação
+105,Aluno 105,8º B,13,Matemática,4.8,76.9,Em recuperação
+106,Aluno 106,8º B,14,Geografia,8.3,97.9,Aprovado
+107,Aluno 107,8º B,15,História,6.6,82.4,Aprovado
+108,Aluno 108,9º B,14,Matemática,7.3,92.6,Aprovado
+109,Aluno 109,8º B,14,Geografia,6.5,91.3,Aprovado
+110,Aluno 110,9º A,13,Geografia,9.2,97.2,Aprovado
+111,Aluno 111,9º B,14,Ciências,5.3,86.5,Em recuperação
+112,Aluno 112,9º A,16,Geografia,4.7,81.4,Em recuperação
+113,Aluno 113,9º B,13,Geografia,6.7,77.1,Aprovado
+114,Aluno 114,8º B,14,Geografia,5.8,68.5,Em recuperação
+115,Aluno 115,9º A,15,Geografia,7.1,89.1,Aprovado
+116,Aluno 116,9º B,14,Língua Portuguesa,6.8,93.4,Aprovado
+117,Aluno 117,8º A,14,Língua Portuguesa,7.5,91.3,Aprovado
+118,Aluno 118,8º B,14,Ciências,7.5,77.3,Aprovado
+119,Aluno 119,9º B,14,Matemática,10.0,95.3,Aprovado
+120,Aluno 120,8º A,13,Geografia,4.4,83.1,Em recuperação
+121,Aluno 121,9º B,15,Matemática,5.6,81.7,Em recuperação
+122,Aluno 122,8º A,15,Matemática,5.6,83.0,Em recuperação
+123,Aluno 123,8º B,15,Ciências,8.5,88.5,Aprovado
+124,Aluno 124,9º A,15,Geografia,3.0,77.6,Em recuperação
+125,Aluno 125,8º A,14,Geografia,7.2,87.7,Aprovado
+126,Aluno 126,9º B,14,História,6.6,91.0,Aprovado
+127,Aluno 127,8º B,15,Matemática,9.1,95.8,Aprovado
+128,Aluno 128,8º A,14,Matemática,8.4,89.2,Aprovado
+129,Aluno 129,9º B,14,Língua Portuguesa,6.2,78.6,Aprovado
+130,Aluno 130,9º B,15,História,5.0,89.0,Em recuperação
+131,Aluno 131,9º B,15,Língua Portuguesa,5.3,80.6,Em recuperação
+132,Aluno 132,8º A,14,Língua Portuguesa,5.4,80.2,Em recuperação
+133,Aluno 133,8º A,14,Língua Portuguesa,4.3,78.5,Em recuperação
+134,Aluno 134,8º A,13,Ciências,6.7,74.6,Em recuperação
+135,Aluno 135,9º A,14,Ciências,4.7,84.0,Em recuperação
+136,Aluno 136,8º A,13,Língua Portuguesa,9.5,95.9,Aprovado
+137,Aluno 137,8º A,14,História,9.9,100.0,Aprovado
+138,Aluno 138,8º A,14,Matemática,5.8,84.0,Em recuperação
+139,Aluno 139,9º A,13,História,7.7,95.6,Aprovado
+140,Aluno 140,8º A,14,Geografia,6.3,85.2,Aprovado
+141,Aluno 141,9º B,13,Ciências,6.6,76.4,Aprovado
+142,Aluno 142,8º A,13,Matemática,8.5,92.9,Aprovado
+143,Aluno 143,9º B,15,Matemática,7.1,89.6,Aprovado
+144,Aluno 144,9º B,14,Geografia,8.2,100.0,Aprovado
+145,Aluno 145,9º B,13,Geografia,5.0,77.3,Em recuperação
+146,Aluno 146,9º A,14,Língua Portuguesa,8.2,100.0,Aprovado
+147,Aluno 147,9º A,15,Ciências,7.8,99.1,Aprovado
+148,Aluno 148,9º A,13,Ciências,5.6,87.9,Em recuperação
+149,Aluno 149,8º A,14,História,6.4,85.9,Aprovado
+150,Aluno 150,9º B,13,Língua Portuguesa,5.7,83.0,Em recuperação
+151,Aluno 151,9º A,13,Língua Portuguesa,6.0,88.8,Aprovado
+152,Aluno 152,9º A,14,Língua Portuguesa,5.2,86.7,Em recuperação
+153,Aluno 153,8º A,14,Língua Portuguesa,7.0,91.6,Aprovado
+154,Aluno 154,9º A,14,Ciências,5.6,85.9,Em recuperação
+155,Aluno 155,8º A,14,Ciências,7.0,97.9,Aprovado
+156,Aluno 156,8º B,16,Língua Portuguesa,7.9,88.9,Aprovado
+157,Aluno 157,9º A,14,História,7.2,86.2,Aprovado
+158,Aluno 158,8º B,14,Matemática,6.2,95.2,Aprovado
+159,Aluno 159,8º A,15,Matemática,6.0,76.6,Aprovado
+160,Aluno 160,9º B,13,História,7.0,90.4,Aprovado
+161,Aluno 161,9º A,14,Língua Portuguesa,8.5,88.2,Aprovado
+162,Aluno 162,8º A,13,Ciências,7.3,78.1,Aprovado
+163,Aluno 163,9º B,13,Matemática,3.9,76.0,Em recuperação
+164,Aluno 164,9º B,16,Geografia,8.2,95.1,Aprovado
+165,Aluno 165,8º B,15,Geografia,8.6,94.7,Aprovado
+166,Aluno 166,8º A,14,História,7.3,89.2,Aprovado
+167,Aluno 167,9º B,14,Língua Portuguesa,7.3,100.0,Aprovado
+168,Aluno 168,9º A,13,Matemática,9.6,91.1,Aprovado
+169,Aluno 169,9º A,13,Língua Portuguesa,8.1,96.7,Aprovado
+170,Aluno 170,8º B,13,Matemática,9.1,90.9,Aprovado
+171,Aluno 171,9º B,14,História,7.9,86.1,Aprovado
+172,Aluno 172,8º A,14,História,6.5,80.6,Aprovado
+173,Aluno 173,9º A,14,Geografia,5.6,83.8,Em recuperação
+174,Aluno 174,9º B,13,Língua Portuguesa,6.4,86.2,Aprovado
+175,Aluno 175,9º B,16,Geografia,7.2,97.5,Aprovado
+176,Aluno 176,8º B,14,Língua Portuguesa,5.8,93.4,Em recuperação
+177,Aluno 177,9º A,14,Geografia,7.5,90.3,Aprovado
+178,Aluno 178,9º A,14,Ciências,8.9,94.1,Aprovado
+179,Aluno 179,8º A,14,Ciências,6.6,91.7,Aprovado
+180,Aluno 180,9º A,13,Ciências,9.2,89.8,Aprovado
+181,Aluno 181,8º A,14,Ciências,4.0,77.5,Em recuperação
+182,Aluno 182,9º A,15,Matemática,8.5,96.0,Aprovado
+183,Aluno 183,8º B,13,Ciências,8.2,84.8,Aprovado
+184,Aluno 184,9º A,13,História,7.1,95.6,Aprovado
+185,Aluno 185,8º A,13,História,7.2,96.3,Aprovado
+186,Aluno 186,8º A,13,Matemática,7.3,83.3,Aprovado
+187,Aluno 187,8º B,15,Ciências,7.8,94.6,Aprovado
+188,Aluno 188,9º A,14,Ciências,4.2,85.5,Em recuperação
+189,Aluno 189,9º A,14,Ciências,5.5,85.5,Em recuperação
+190,Aluno 190,8º B,13,Geografia,6.8,89.8,Aprovado
+191,Aluno 191,9º A,14,Língua Portuguesa,5.3,90.0,Em recuperação
+192,Aluno 192,9º A,14,Geografia,6.1,88.3,Aprovado
+193,Aluno 193,8º A,13,Língua Portuguesa,4.3,78.7,Em recuperação
+194,Aluno 194,9º A,14,Ciências,6.1,87.1,Aprovado
+195,Aluno 195,9º A,14,Ciências,7.3,100.0,Aprovado
+196,Aluno 196,8º B,14,Geografia,5.3,68.5,Em recuperação
+197,Aluno 197,8º B,14,Geografia,7.1,94.1,Aprovado
+198,Aluno 198,9º B,13,Língua Portuguesa,7.8,95.4,Aprovado
+199,Aluno 199,8º A,14,História,6.2,78.5,Aprovado
+200,Aluno 200,9º A,14,Língua Portuguesa,7.5,84.7,Aprovado
+201,Aluno 201,9º A,14,Geografia,7.0,81.0,Aprovado
+202,Aluno 202,9º B,15,Geografia,8.5,100.0,Aprovado
+203,Aluno 203,9º A,14,Matemática,10.0,95.7,Aprovado
+204,Aluno 204,8º A,13,Geografia,7.7,96.1,Aprovado
+205,Aluno 205,9º B,13,Matemática,9.5,88.8,Aprovado
+206,Aluno 206,8º A,14,História,7.9,97.2,Aprovado
+207,Aluno 207,9º B,13,Língua Portuguesa,6.5,87.9,Aprovado
+208,Aluno 208,9º B,14,Língua Portuguesa,7.1,97.5,Aprovado
+209,Aluno 209,8º B,15,Matemática,8.2,87.0,Aprovado
+210,Aluno 210,8º A,14,Língua Portuguesa,8.0,83.2,Aprovado
+211,Aluno 211,9º A,14,Geografia,8.4,100.0,Aprovado
+212,Aluno 212,9º A,14,Ciências,7.9,87.9,Aprovado
+213,Aluno 213,8º A,14,Matemática,4.6,81.7,Em recuperação
+214,Aluno 214,9º A,14,Língua Portuguesa,4.3,81.6,Em recuperação
+215,Aluno 215,9º A,15,Matemática,7.4,81.7,Aprovado
+216,Aluno 216,8º A,14,Matemática,7.0,93.9,Aprovado
+217,Aluno 217,9º B,16,Ciências,7.4,87.3,Aprovado
+218,Aluno 218,8º A,15,Geografia,6.9,100.0,Aprovado
+219,Aluno 219,9º B,13,Matemática,9.2,96.3,Aprovado
+220,Aluno 220,9º A,13,Língua Portuguesa,5.1,89.8,Em recuperação
+221,Aluno 221,9º A,13,História,6.0,97.8,Aprovado
+222,Aluno 222,9º A,13,Matemática,7.9,84.5,Aprovado
+223,Aluno 223,8º B,13,Matemática,2.6,75.0,Em recuperação
+224,Aluno 224,9º B,14,Ciências,6.4,81.1,Aprovado
+225,Aluno 225,8º B,13,Geografia,6.6,89.0,Aprovado
+226,Aluno 226,8º B,14,História,5.7,86.4,Em recuperação
+227,Aluno 227,8º A,15,Língua Portuguesa,6.9,93.8,Aprovado
+228,Aluno 228,8º B,13,História,5.6,87.1,Em recuperação
+229,Aluno 229,8º A,15,Língua Portuguesa,8.8,93.2,Aprovado
+230,Aluno 230,8º A,13,Geografia,9.6,98.5,Aprovado
+231,Aluno 231,8º B,13,Língua Portuguesa,5.8,87.1,Em recuperação
+232,Aluno 232,9º B,14,Ciências,7.3,91.9,Aprovado
+233,Aluno 233,9º B,14,Ciências,4.1,75.7,Em recuperação
+234,Aluno 234,9º B,15,Ciências,7.7,87.1,Aprovado
+235,Aluno 235,9º B,14,Ciências,7.0,79.4,Aprovado
+236,Aluno 236,9º B,15,História,6.4,89.0,Aprovado
+237,Aluno 237,8º B,13,Geografia,6.8,89.7,Aprovado
+238,Aluno 238,8º B,13,Língua Portuguesa,6.7,89.6,Aprovado
+239,Aluno 239,9º A,15,Língua Portuguesa,4.5,84.6,Em recuperação
+240,Aluno 240,9º B,15,Ciências,9.4,100.0,Aprovado
+241,Aluno 241,8º B,16,Ciências,5.0,79.1,Em recuperação
+242,Aluno 242,9º A,14,Matemática,4.9,78.7,Em recuperação
+243,Aluno 243,9º B,14,Geografia,7.5,99.6,Aprovado
+244,Aluno 244,8º A,15,História,7.3,83.1,Aprovado
+245,Aluno 245,9º A,14,Língua Portuguesa,5.4,81.4,Em recuperação
+246,Aluno 246,8º B,15,Matemática,5.6,100.0,Em recuperação
+247,Aluno 247,8º A,15,Matemática,6.3,94.9,Aprovado
+248,Aluno 248,8º A,14,Língua Portuguesa,6.7,83.8,Aprovado
+249,Aluno 249,8º A,15,História,9.2,89.5,Aprovado
+250,Aluno 250,9º A,15,Matemática,6.3,100.0,Aprovado
+251,Aluno 251,8º B,13,Matemática,5.6,92.8,Em recuperação
+252,Aluno 252,8º A,15,Geografia,5.8,97.0,Em recuperação
+253,Aluno 253,9º B,14,História,5.3,93.6,Em recuperação
+254,Aluno 254,8º A,15,Matemática,8.5,94.5,Aprovado
+255,Aluno 255,8º A,14,História,8.3,88.3,Aprovado
+256,Aluno 256,9º A,15,Língua Portuguesa,6.8,88.1,Aprovado
+257,Aluno 257,9º A,14,Ciências,6.3,89.9,Aprovado
+258,Aluno 258,8º B,13,Matemática,9.1,93.1,Aprovado
+259,Aluno 259,9º B,15,Geografia,6.6,86.0,Aprovado
+260,Aluno 260,9º A,13,Língua Portuguesa,7.9,88.9,Aprovado
+261,Aluno 261,8º A,14,História,5.9,85.8,Em recuperação
+262,Aluno 262,8º B,16,Língua Portuguesa,6.7,88.8,Aprovado
+263,Aluno 263,8º A,16,Matemática,4.5,79.2,Em recuperação
+264,Aluno 264,8º A,14,História,8.4,100.0,Aprovado
+265,Aluno 265,9º A,14,Ciências,6.4,82.9,Aprovado
+266,Aluno 266,8º B,14,Língua Portuguesa,5.4,85.5,Em recuperação
+267,Aluno 267,9º B,13,Matemática,5.1,82.3,Em recuperação
+268,Aluno 268,9º B,14,Geografia,8.8,92.3,Aprovado
+269,Aluno 269,9º A,14,História,8.7,86.6,Aprovado
+270,Aluno 270,9º A,15,Língua Portuguesa,5.8,81.3,Em recuperação
+271,Aluno 271,8º B,15,Língua Portuguesa,7.1,92.6,Aprovado
+272,Aluno 272,9º B,15,Ciências,7.6,93.5,Aprovado
+273,Aluno 273,9º B,13,Ciências,6.7,87.5,Aprovado
+274,Aluno 274,9º B,14,Geografia,4.4,83.4,Em recuperação
+275,Aluno 275,8º A,13,Geografia,8.2,100.0,Aprovado
+276,Aluno 276,9º B,14,Matemática,4.5,90.4,Em recuperação
+277,Aluno 277,8º A,14,Matemática,5.0,79.1,Em recuperação
+278,Aluno 278,8º B,15,Geografia,8.1,97.9,Aprovado
+279,Aluno 279,8º A,14,Geografia,6.7,82.0,Aprovado
+280,Aluno 280,8º B,13,História,6.8,100.0,Aprovado
+281,Aluno 281,9º B,13,Ciências,6.2,88.6,Aprovado
+282,Aluno 282,9º B,15,Matemática,6.6,95.1,Aprovado
+283,Aluno 283,8º B,14,Ciências,5.2,73.4,Em recuperação
+284,Aluno 284,9º A,13,Ciências,5.8,79.0,Em recuperação
+285,Aluno 285,8º B,13,Geografia,8.2,97.3,Aprovado
+286,Aluno 286,9º A,14,História,6.3,90.2,Aprovado
+287,Aluno 287,8º A,13,Língua Portuguesa,8.1,100.0,Aprovado
+288,Aluno 288,8º A,15,História,7.5,91.4,Aprovado
+289,Aluno 289,8º A,14,História,6.9,89.0,Aprovado
+290,Aluno 290,9º B,13,Ciências,7.4,100.0,Aprovado
+291,Aluno 291,8º A,13,História,7.5,95.1,Aprovado
+292,Aluno 292,9º A,16,Matemática,7.3,86.6,Aprovado
+293,Aluno 293,8º A,14,Ciências,6.9,80.3,Aprovado
+294,Aluno 294,8º B,14,Matemática,7.1,71.4,Em recuperação
+295,Aluno 295,8º B,15,Língua Portuguesa,5.3,84.9,Em recuperação
+296,Aluno 296,9º B,15,Ciências,5.4,79.7,Em recuperação
+297,Aluno 297,8º B,16,Língua Portuguesa,5.9,100.0,Em recuperação
+298,Aluno 298,9º A,15,Ciências,7.2,83.4,Aprovado
+299,Aluno 299,8º A,14,Geografia,5.8,83.3,Em recuperação
+300,Aluno 300,9º B,13,História,5.9,77.4,Em recuperação
