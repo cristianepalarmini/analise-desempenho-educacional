@@ -124,3 +124,40 @@ analise-desempenho-educacional/
 │   └── consultas.sql
 │
 └── README.md
+
+## 💡 Perguntas de negócio
+
+A análise foi estruturada para responder perguntas como:
+
+Qual é a média geral das notas?
+Qual é a taxa de aprovação?
+Qual turma apresenta maior média?
+Qual disciplina apresenta maior média?
+Como está a frequência média dos alunos?
+Como está distribuída a situação dos alunos?
+
+## 📈 Competências demonstradas
+
+Este projeto demonstra conhecimentos em:
+
+análise exploratória de dados;
+tratamento e organização de dados;
+criação de indicadores;
+agregação e comparação de dados;
+SQL;
+Python;
+Pandas;
+Power BI;
+criação de dashboards;
+documentação de projetos;
+interpretação de dados para apoio à tomada de decisão.
+
+## ⚠️ Dados
+
+Os dados utilizados neste projeto são fictícios e foram criados exclusivamente para fins de estudo, desenvolvimento de portfólio e demonstração de habilidades em análise de dados.
+
+## 👩‍💻 Autora
+
+Cristiane Palarmini
+Analista de Dados | Tecnologia da Informação | Educação Profissional
+GitHub
