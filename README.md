@@ -20,7 +20,7 @@ A análise foi estruturada para apoiar a interpretação dos dados e facilitar a
 
 ---
 
-## 📌 Principais indicadores
+## Principais indicadores
 
 - **Total de alunos**
 - **Média geral das notas**
@@ -40,7 +40,7 @@ O dashboard foi desenvolvido no Power BI para apresentar os principais indicador
 
 ---
 
-## 🔎 Análises realizadas
+## Análises realizadas
 
 ### Desempenho acadêmico
 Análise das médias de notas por turma e disciplina para identificar diferenças de desempenho.
@@ -66,7 +66,7 @@ Construção de indicadores para apresentar uma visão consolidada do desempenho
 
 ---
 
-## 🐍 Python
+## Python
 
 O projeto utiliza Python e Pandas para realizar análises como:
 
@@ -83,7 +83,7 @@ Arquivo:
 
 ---
 
-## 🗄️ SQL
+## SQL
 
 Foram desenvolvidas consultas SQL para análise dos principais indicadores.
 
@@ -129,7 +129,7 @@ analise-desempenho-educacional/
 
 ---
 
-## 📈 Competências demonstradas
+## Competências demonstradas
 
 Este projeto demonstra conhecimentos em:
 
@@ -150,7 +150,7 @@ Este projeto demonstra conhecimentos em:
 
 ---
 
-## 🎓 Contexto educacional
+## Contexto educacional
 
 A análise utiliza um conjunto de dados acadêmicos fictícios para simular uma situação real de acompanhamento do desempenho dos alunos.
 
@@ -174,7 +174,7 @@ Os indicadores podem ser explorados por meio dos filtros de **Turma** e **Discip
 
 ---
 
-## 🔄 Fluxo de análise
+## Fluxo de análise
 
 O projeto segue as seguintes etapas:
 
@@ -214,7 +214,7 @@ Nenhum dado pessoal real de alunos é utilizado.
 
 ---
 
-## 🚀 Próximos passos
+## Próximos passos
 
 Possíveis evoluções deste projeto:
 
@@ -239,8 +239,12 @@ Possíveis evoluções deste projeto:
 
 ---
 
-## 📌 Sobre este projeto
+## Sobre este projeto
 
 Este projeto faz parte do portfólio profissional de **Cristiane Palarmini**, reunindo conhecimentos de análise de dados, tecnologia da informação e educação.
 
 O objetivo é demonstrar, na prática, a capacidade de transformar dados em informações úteis por meio de ferramentas de análise, programação, banco de dados e visualização.
+
+## Licença
+
+Este projeto foi desenvolvido para fins de estudo, prática profissional e composição de portfólio.
