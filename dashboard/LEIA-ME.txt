@@ -1,5 +1,5 @@
 Dashboard de Desempenho Educacional
 
-Este dashboard apresenta indicadores de notas, frequência e aprovação dos alunos.
+## 📊 Dashboard
 
-Desenvolvido com Power BI.
+![Dashboard de Desempenho Educacional](dashboard/Dashboard%20de%20Desempenho%20Educacional.png)
